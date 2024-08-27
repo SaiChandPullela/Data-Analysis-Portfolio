@@ -18,7 +18,7 @@ Performed a data correlation analysis on movie data to identify relationships an
 
 ## How to Explore
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/data-analyst-portfolio.git`
+1. **Clone the Repository**: `https://github.com/SaiChandPullela/Data-Analysis-Portfolio/tree/main`
 2. **Navigate to the Project**: Go to the respective project folder to view the code and results.
 3. **Run the Code**: Follow the instructions in each project’s README file to execute and explore.
 
