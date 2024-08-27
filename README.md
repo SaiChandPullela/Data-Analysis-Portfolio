@@ -4,15 +4,15 @@ Welcome to my Data Analyst Portfolio! Here, you'll find a collection of my data 
 
 ## Projects Overview 🗂️
 
-### 1.Layoffs Data 🔍
+### 1.Data Cleaning on Layoffs Data 🔍
 - **Description:** Performed thorough data cleaning on layoffs data to ensure accuracy and consistency, preparing it for further analysis.
 - **Tech Stack:** SQL
 
-### 2. Nashville Housing Data 🏘️
+### 2. Data Cleaning on Nashville Housing Data 🏘️
 - **Description:** Cleaned and explored the Nashville housing data to uncover trends, patterns, and insights.
 - **Tech Stack:** SQL
 
-### 3. IPL Player Stats Data 📈
+### 3.Data Exploration on IPL Player Stats Data 📈
 - **Description:** Conducted data exploration on IPL player stats to generate meaningful visualizations and insights.
 - **Tech Stack:** SQL
 
