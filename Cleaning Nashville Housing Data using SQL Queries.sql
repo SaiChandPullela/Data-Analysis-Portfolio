@@ -74,7 +74,7 @@ SELECT PropertyAddress,
 FROM NashvilleHousingData;
 
 /*
-	2. Break down the Owner address part into three columns Address, city and state
+	2. Break down the Owner's address part into three columns Address, city and state
 */
 SELECT OwnerAddress
 FROM NashvilleHousingData;
